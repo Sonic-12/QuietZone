@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+body { background: #f4f6f9; color: #0f172a; font-family: Inter, system-ui, -apple-system, 'Segoe UI', sans-serif; }
+.leaflet-container { font-family: inherit; }
+.leaflet-tooltip { font-size: 11px; padding: 1px 5px; }
